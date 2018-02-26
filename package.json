@@ -1,0 +1,36 @@
+{
+  "name": "skyclip_automator",
+  "version": "1.0.0",
+  "description": "Automatically refresh all your clips in SkyClip",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roshin Varghese",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^2.34.1",
+    "request": "^2.83.0",
+    "selenium-server": "^3.8.1"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/roshin8/SkyClipAutomator.git"
+  },
+  "keywords": [
+    "skyclip",
+    "automator",
+    "refresh",
+    "node",
+    "selenium",
+    "nightwatch"
+  ],
+  "bugs": {
+    "url": "https://github.com/roshin8/SkyClipAutomator/issues"
+  },
+  "homepage": "https://github.com/roshin8/SkyClipAutomator#readme"
+}
